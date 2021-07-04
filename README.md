@@ -17,6 +17,15 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 - Mirror telegram files
 - Stable Mega.nz support
 
+## Deploying on Heroku
+
+- Give stars and Fork this repo then upload **token.pickle** to your forks
+- Hit the **DEPLOY TO HEROKU** button and follow the further instructions in the screen
+- **NOTE**: If you didn't upload **token.pickle**, uploading will not work. How to generate **token.pickle**? [Read here](https://github.com/breakdowns/slam-mirrorbot#getting-google-oauth-api-credential-file)
+- Recommended to use 1 App in 1 Heroku accounts
+
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
