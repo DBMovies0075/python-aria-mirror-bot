@@ -1,16 +1,16 @@
 {
-    "name": "Python-Drive-Bot",
+    "name": "DBMovies-Python-Drive-Bot",
     "description": "Telegram-Direct-Mirror to G-Drive",
-    "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
+    "logo": "https://cdn.jsdelivr.net/gh/dbmovies/index/DBMovies.JPG",
     "keywords": [
       "telegram",
       "bot",
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
-    "website": "https://github.com/AbirHasan2005/magneto-python-aria/tree/main",
-    "success_url": "https://github.com/AbirHasan2005/magneto-python-aria/blob/main/README.md",
+    "repository": "https://github.com/DBMovies0075/python-aria-mirror-bot",
+    "website": "",
+    "success_url": "",
     "stack": "container",
     "env": {
       "ENV": {
